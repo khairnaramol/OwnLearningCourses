@@ -49,3 +49,7 @@ git branch develop - create branch
 git checkout develop - switch branches 
 git merge develop - add files into master brnach ( switch to master)
 git checkout -b feature
+
+git clone https://github.com/khairnaramol/OwnLearningCourses.git
+cd OwnLearningCourses
+git checkout git(branchName)
