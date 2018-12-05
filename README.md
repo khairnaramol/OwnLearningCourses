@@ -53,3 +53,6 @@ git checkout -b feature
 git clone https://github.com/khairnaramol/OwnLearningCourses.git
 cd OwnLearningCourses
 git checkout git(branchName)
+
+Fork : create complete copy of repository for testing
+      -after confirmation then to sync pull request again
